@@ -18,9 +18,9 @@ MIDI Converter es una aplicación de escritorio diseñada para convertir archivo
   - `pyperclip`
 
 Puedes instalar las bibliotecas necesarias usando pip:
-
+```bash
 pip install mido pyperclip
-
+```
 
 ## Uso
 Abrir un archivo MIDI:
