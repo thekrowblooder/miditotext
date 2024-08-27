@@ -57,6 +57,4 @@ note_off <note> <velocity> <end_time> 1
 <start_time>: El tiempo de inicio de la nota en ticks.
 <end_time>: El tiempo de finalización de la nota en ticks.
 
-## Licencia
-Este proyecto está licenciado bajo los términos de la Licencia MIT. Consulta el archivo LICENSE para obtener más detalles.
 
